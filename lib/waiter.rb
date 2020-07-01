@@ -18,4 +18,8 @@ class Waiter
     Meal.new(self, customer, total, tip)
   end   
     
+  def best_tipper
+    Meals.  
+  end
+  
 end
